@@ -175,3 +175,5 @@ cython_debug/
 
 btre_resources/
 __MACOSX/
+/static
+/media
